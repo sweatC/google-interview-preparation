@@ -1,3 +1,8 @@
+/* 
+   Link to the task: 
+   https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#!
+*/
+
 const S = "abppplee";
 const D = ["able", "ale", "apple", "bale", "kangaroo"];
 
